@@ -1,2 +1,3 @@
 这是一个测试的git
 this is my test git operation
+this is second my trim git operation
